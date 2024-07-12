@@ -19,3 +19,8 @@ http://localhost:8080/tushushangcheng/admin/dist/index.html
 
 
 图片存放路径： src\main\webapp\upload 里面上传图片名里面不能有中文
+
+
+
+
+123123
